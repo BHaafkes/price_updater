@@ -2,6 +2,7 @@ pandas
 numpy
 requests
 SQLAlchemy
-psycopg2-binary
+# psycopg2-binary <-- You can remove this
+mysql-connector-python # <-- Add this line
 Flask
 gunicorn
