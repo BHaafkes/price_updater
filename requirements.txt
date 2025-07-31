@@ -1,8 +1,5 @@
 pandas
-numpy
 requests
-SQLAlchemy
-psycopg2-binary # <-- You need this for SupaBase
-mysql-connector-python # <-- You need this for MySQL (like strato)
 Flask
 gunicorn
+firebase-admin
